@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../Downloads/carteF1-removebg-preview.png</file>
+        <file>../../Downloads/logosociete_50-removebg-preview.png</file>
+    </qresource>
+</RCC>
